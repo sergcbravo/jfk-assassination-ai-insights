@@ -4,3 +4,6 @@ venv/
 # Ignore Python cache
 __pycache__/
 *.py[cod]
+
+# Ignore local data folder with large PDFs
+data/
